@@ -6,7 +6,7 @@
 
 **SAM3-VLFS** extends the capabilities of the powerful **Segment Anything 3 (SAM3)** foundation model into a specialized few-shot segmentation framework. Through targeted parameter fine-tuning and vision-language collaboration, the model is designed to perform highly accurate segmentation tasks using a few annotated samples.
 
-![SAM3-VLFS Architecture](assets/SAM3-VLFS.png)
+![SAM3-VLFS Architecture](assets/SAM3-VLFS.jpg)
 
 🚀 **Parameter Efficient:** Freezes the core SAM3 backbone by integrating lightweight Adaptformers into the text and vision encoders, while fully fine-tuning only the memory encoder and memory attention modules.
 
