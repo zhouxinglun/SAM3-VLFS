@@ -12,7 +12,7 @@
 
 📈 **Vision-Language Driven:** Synergizes multimodal representations through deep cross-modal feature interaction and dual-branch decision fusion. 
 
-🌐 **Broad Dataset Support:** Supports COCO-20$^i$ and PASCAL-5$^i$ with built-in data loaders.
+🌐 **Broad Dataset Support:** Supports COCO-20 $^i$ and PASCAL-5 $^i$ with built-in data loaders.
 
 ---
 
